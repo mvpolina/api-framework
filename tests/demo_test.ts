@@ -1,6 +1,8 @@
 import { assert } from 'chai';
 import CoreApi from '../src/http/CoreApi';
 
+const getRandomInt = (max: number) => Math.floor(Math.random() * max) + 1;
+
 describe('Проверка функционала добавления котов', async () => {
   it('Получение кота по id', async () => {
     const name = 'Вики';
@@ -11,7 +13,7 @@ describe('Проверка функционала добавления кото�
   });
 
   it('Поиск существующего кота', async () => {
-    const expName = 'Балу';
+    const expName = 'Агата';
 
     const response = await CoreApi.searchCatByPartName(expName);
     if (response.status === 404) {

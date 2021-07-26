@@ -1,0 +1,41 @@
+[ {
+  "uid" : "6e3f0155605b6cad",
+  "name" : "Поиск случайного кота, удаление и проверка",
+  "time" : {
+    "start" : 1627261763475,
+    "stop" : 1627261764533,
+    "duration" : 1058
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fcb12421a024bc3",
+  "name" : "allure3",
+  "time" : {
+    "start" : 1627261522904,
+    "stop" : 1627261523383,
+    "duration" : 479
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "ea43da918e082f0c",
+  "name" : "allure",
+  "time" : {
+    "start" : 1627261522274,
+    "stop" : 1627261522643,
+    "duration" : 369
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ccab2c870d5ce96",
+  "name" : "allure2",
+  "time" : {
+    "start" : 1627261522648,
+    "stop" : 1627261522903,
+    "duration" : 255
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

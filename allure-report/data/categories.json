@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Cannot read property 'data' of undefined",
+      "children" : [ {
+        "name" : "allure3",
+        "uid" : "fcb12421a024bc3",
+        "parentUid" : "e3fbf168a3c16fe38c3714db6895daaa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1627261522904,
+          "stop" : 1627261523383,
+          "duration" : 479
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e3fbf168a3c16fe38c3714db6895daaa"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

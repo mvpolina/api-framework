@@ -5,8 +5,8 @@ import Steps from '../src/steps/Steps';
 
 describe('Проверка имени кота', async () => {
   it('allure', async () => {
-    const name = 'Вики';
-    const id = 101368;
+    const name = 'Агата';
+    const id = 2257089;
 
     const response = await CoreApi.getCatById(id);
     allure.logStep(`выполнен запрос GET /get-by-id c параметром ${id}`);
@@ -20,8 +20,8 @@ describe('Проверка имени кота', async () => {
   });
 
   it('allure2', async () => {
-    const name = 'Вики';
-    const id = 101368;
+    const name = 'Агата';
+    const id = 2257089;
 
     const response = await allure.step(
       `выполнен запрос GET /get-by-id c параметром ${id}`,
