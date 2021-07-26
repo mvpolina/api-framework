@@ -1,12 +1,12 @@
 {
-  "uid" : "a8a1af3128151689",
+  "uid" : "38f1145c4380eb03",
   "name" : "Поиск случайного кота, удаление и проверка",
   "fullName" : "Поиск случайного кота, удаление и проверка",
   "historyId" : "c31c56144b35a5a5b77713e274daa3e7",
   "time" : {
-    "start" : 1627261723931,
-    "stop" : 1627261724991,
-    "duration" : 1060
+    "start" : 1627307443882,
+    "stop" : 1627307445159,
+    "duration" : 1277
   },
   "status" : "passed",
   "flaky" : false,
@@ -15,63 +15,63 @@
   "testStage" : {
     "status" : "passed",
     "steps" : [ {
-      "name" : "выполнен запрос GET /getAllCats ",
+      "name" : "Выбираем случайного кота с помощью запроса GET /getAllCats, сохраняем его id, name",
       "time" : {
-        "start" : 1627261723934,
-        "stop" : 1627261724490,
-        "duration" : 556
+        "start" : 1627307443885,
+        "stop" : 1627307444627,
+        "duration" : 742
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "c0ac563113955f41",
+        "uid" : "a910385c67a4e080",
         "name" : "attachment",
-        "source" : "c0ac563113955f41.json",
+        "source" : "a910385c67a4e080.json",
         "type" : "application/json",
-        "size" : 338763
+        "size" : 327582
       } ],
       "parameters" : [ ],
-      "shouldDisplayMessage" : false,
-      "attachmentsCount" : 1,
       "stepsCount" : 0,
-      "hasContent" : true
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
     }, {
-      "name" : "Выполняется удаление выбранного кота",
+      "name" : "Выполняется удаление выбранного кота с id= ${id}",
       "time" : {
-        "start" : 1627261724490,
-        "stop" : 1627261724759,
-        "duration" : 269
+        "start" : 1627307444627,
+        "stop" : 1627307444897,
+        "duration" : 270
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "shouldDisplayMessage" : false,
-      "attachmentsCount" : 0,
       "stepsCount" : 0,
-      "hasContent" : false
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
     }, {
       "name" : "Проверяется, действительно ли кот удален",
       "time" : {
-        "start" : 1627261724990,
-        "stop" : 1627261724991,
-        "duration" : 1
+        "start" : 1627307445157,
+        "stop" : 1627307445159,
+        "duration" : 2
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "shouldDisplayMessage" : false,
-      "attachmentsCount" : 0,
       "stepsCount" : 0,
-      "hasContent" : false
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
     } ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "shouldDisplayMessage" : false,
-    "attachmentsCount" : 1,
     "stepsCount" : 3,
-    "hasContent" : true
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
   },
   "afterStages" : [ ],
   "labels" : [ {
@@ -89,6 +89,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "a8a1af3128151689.json",
+  "source" : "38f1145c4380eb03.json",
   "parameterValues" : [ ]
 }

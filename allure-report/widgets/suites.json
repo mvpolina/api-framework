@@ -1,5 +1,5 @@
 {
-  "total" : 2,
+  "total" : 3,
   "items" : [ {
     "uid" : "e0eedae22962963e1c8bf46bbeb96cb3",
     "name" : "Проверка имени кота",
@@ -10,6 +10,17 @@
       "passed" : 2,
       "unknown" : 0,
       "total" : 3
+    }
+  }, {
+    "uid" : "bcbdecdaff9a0150ab98d0249053e1cf",
+    "name" : "Домашнее задание 2. Автоматизация API",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
     }
   }, {
     "uid" : "574353e36e24916eeda575d7803525f3",

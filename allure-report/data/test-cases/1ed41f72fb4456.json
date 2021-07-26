@@ -1,5 +1,5 @@
 {
-  "uid" : "fcb12421a024bc3",
+  "uid" : "1ed41f72fb4456",
   "name" : "allure3",
   "fullName" : "allure3",
   "historyId" : "149999b4fca129d17b6917de93896645",
@@ -31,17 +31,17 @@
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "shouldDisplayMessage" : true,
-      "attachmentsCount" : 0,
       "stepsCount" : 0,
-      "hasContent" : true
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true
     } ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "shouldDisplayMessage" : false,
-    "attachmentsCount" : 0,
     "stepsCount" : 1,
-    "hasContent" : true
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
   },
   "afterStages" : [ ],
   "labels" : [ {
@@ -78,6 +78,6 @@
     } ],
     "tags" : [ ]
   },
-  "source" : "fcb12421a024bc3.json",
+  "source" : "1ed41f72fb4456.json",
   "parameterValues" : [ ]
 }

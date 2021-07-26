@@ -1,5 +1,5 @@
 {
-  "uid" : "4ccab2c870d5ce96",
+  "uid" : "5cd5c1af5607b808",
   "name" : "allure2",
   "fullName" : "allure2",
   "historyId" : "bc608bc9ce4b5740277829db22b2c334",
@@ -24,17 +24,17 @@
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "2e28bc36d51b15a2",
+        "uid" : "63af8ad900284874",
         "name" : "attachment",
-        "source" : "2e28bc36d51b15a2.json",
+        "source" : "63af8ad900284874.json",
         "type" : "application/json",
         "size" : 234
       } ],
       "parameters" : [ ],
-      "shouldDisplayMessage" : false,
-      "attachmentsCount" : 1,
       "stepsCount" : 0,
-      "hasContent" : true
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
     }, {
       "name" : "выполнена проверка соответствия значения имен кота из запроса с ожидаемым",
       "time" : {
@@ -45,30 +45,30 @@
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "c916b6282877293c",
+        "uid" : "7a0e20a6aefeaa67",
         "name" : "expected",
-        "source" : "c916b6282877293c.txt",
+        "source" : "7a0e20a6aefeaa67.txt",
         "type" : "text/plain",
         "size" : 10
       }, {
-        "uid" : "fbf61d68933c22a3",
+        "uid" : "320f62f599c9e00b",
         "name" : "actual",
-        "source" : "fbf61d68933c22a3.txt",
+        "source" : "320f62f599c9e00b.txt",
         "type" : "text/plain",
         "size" : 10
       } ],
       "parameters" : [ ],
-      "shouldDisplayMessage" : false,
-      "attachmentsCount" : 2,
       "stepsCount" : 0,
-      "hasContent" : true
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
     } ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "shouldDisplayMessage" : false,
-    "attachmentsCount" : 3,
     "stepsCount" : 2,
-    "hasContent" : true
+    "hasContent" : true,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
   },
   "afterStages" : [ ],
   "labels" : [ {
@@ -88,6 +88,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "4ccab2c870d5ce96.json",
+  "source" : "5cd5c1af5607b808.json",
   "parameterValues" : [ ]
 }

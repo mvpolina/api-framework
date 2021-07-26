@@ -1,5 +1,5 @@
 {
-  "uid" : "8146827316c96428",
+  "uid" : "ccbf8a1b5d501677",
   "name" : "Поиск случайного кота, удаление и проверка",
   "fullName" : "Поиск случайного кота, удаление и проверка",
   "historyId" : "c31c56144b35a5a5b77713e274daa3e7",
@@ -24,24 +24,24 @@
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ {
-        "uid" : "6c8e44974e6fc081",
+        "uid" : "745e24b44e18d34c",
         "name" : "attachment",
-        "source" : "6c8e44974e6fc081.json",
+        "source" : "745e24b44e18d34c.json",
         "type" : "application/json",
         "size" : 338973
       } ],
       "parameters" : [ ],
-      "shouldDisplayMessage" : false,
-      "attachmentsCount" : 1,
       "stepsCount" : 0,
-      "hasContent" : true
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
     } ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "shouldDisplayMessage" : false,
-    "attachmentsCount" : 1,
     "stepsCount" : 1,
-    "hasContent" : true
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
   },
   "afterStages" : [ ],
   "labels" : [ {
@@ -59,6 +59,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "8146827316c96428.json",
+  "source" : "ccbf8a1b5d501677.json",
   "parameterValues" : [ ]
 }

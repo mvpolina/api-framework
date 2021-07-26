@@ -5,7 +5,7 @@
     "name" : "Проверка имени кота",
     "children" : [ {
       "name" : "allure",
-      "uid" : "ea43da918e082f0c",
+      "uid" : "464f07d474ca868b",
       "parentUid" : "e0eedae22962963e1c8bf46bbeb96cb3",
       "status" : "passed",
       "time" : {
@@ -18,7 +18,7 @@
       "parameters" : [ ]
     }, {
       "name" : "allure2",
-      "uid" : "4ccab2c870d5ce96",
+      "uid" : "5cd5c1af5607b808",
       "parentUid" : "e0eedae22962963e1c8bf46bbeb96cb3",
       "status" : "passed",
       "time" : {
@@ -31,7 +31,7 @@
       "parameters" : [ ]
     }, {
       "name" : "allure3",
-      "uid" : "fcb12421a024bc3",
+      "uid" : "1ed41f72fb4456",
       "parentUid" : "e0eedae22962963e1c8bf46bbeb96cb3",
       "status" : "broken",
       "time" : {
@@ -48,18 +48,48 @@
     "name" : "Домашнее задание 1. Автоматизация API",
     "children" : [ {
       "name" : "Поиск случайного кота, удаление и проверка",
-      "uid" : "6e3f0155605b6cad",
+      "uid" : "20a95690282de352",
       "parentUid" : "574353e36e24916eeda575d7803525f3",
       "status" : "passed",
       "time" : {
-        "start" : 1627261763475,
-        "stop" : 1627261764533,
-        "duration" : 1058
+        "start" : 1627308534345,
+        "stop" : 1627308535654,
+        "duration" : 1309
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     } ],
     "uid" : "574353e36e24916eeda575d7803525f3"
+  }, {
+    "name" : "Домашнее задание 2. Автоматизация API",
+    "children" : [ {
+      "name" : "Поиск случайного кота, добавление ему n лайков и проверка",
+      "uid" : "960340fcd8f10222",
+      "parentUid" : "bcbdecdaff9a0150ab98d0249053e1cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627308546147,
+        "stop" : 1627308548564,
+        "duration" : 2417
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Поиск случайного кота, добавление ему m дизлайков и проверка",
+      "uid" : "1936a51ca59a8434",
+      "parentUid" : "bcbdecdaff9a0150ab98d0249053e1cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627308548569,
+        "stop" : 1627308550857,
+        "duration" : 2288
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "bcbdecdaff9a0150ab98d0249053e1cf"
   } ]
 }

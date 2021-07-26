@@ -1,25 +1,25 @@
 [ {
-  "uid" : "6e3f0155605b6cad",
+  "uid" : "20a95690282de352",
   "name" : "Поиск случайного кота, удаление и проверка",
   "time" : {
-    "start" : 1627261763475,
-    "stop" : 1627261764533,
-    "duration" : 1058
+    "start" : 1627308534345,
+    "stop" : 1627308535654,
+    "duration" : 1309
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "ea43da918e082f0c",
-  "name" : "allure",
+  "uid" : "1ed41f72fb4456",
+  "name" : "allure3",
   "time" : {
-    "start" : 1627261522274,
-    "stop" : 1627261522643,
-    "duration" : 369
+    "start" : 1627261522904,
+    "stop" : 1627261523383,
+    "duration" : 479
   },
-  "status" : "passed",
-  "severity" : "normal"
+  "status" : "broken",
+  "severity" : "blocker"
 }, {
-  "uid" : "4ccab2c870d5ce96",
+  "uid" : "5cd5c1af5607b808",
   "name" : "allure2",
   "time" : {
     "start" : 1627261522648,
@@ -29,13 +29,33 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "fcb12421a024bc3",
-  "name" : "allure3",
+  "uid" : "464f07d474ca868b",
+  "name" : "allure",
   "time" : {
-    "start" : 1627261522904,
-    "stop" : 1627261523383,
-    "duration" : 479
+    "start" : 1627261522274,
+    "stop" : 1627261522643,
+    "duration" : 369
   },
-  "status" : "broken",
-  "severity" : "blocker"
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1936a51ca59a8434",
+  "name" : "Поиск случайного кота, добавление ему m дизлайков и проверка",
+  "time" : {
+    "start" : 1627308548569,
+    "stop" : 1627308550857,
+    "duration" : 2288
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "960340fcd8f10222",
+  "name" : "Поиск случайного кота, добавление ему n лайков и проверка",
+  "time" : {
+    "start" : 1627308546147,
+    "stop" : 1627308548564,
+    "duration" : 2417
+  },
+  "status" : "passed",
+  "severity" : "normal"
 } ]

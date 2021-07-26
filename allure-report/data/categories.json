@@ -7,7 +7,7 @@
       "name" : "Cannot read property 'data' of undefined",
       "children" : [ {
         "name" : "allure3",
-        "uid" : "fcb12421a024bc3",
+        "uid" : "1ed41f72fb4456",
         "parentUid" : "e3fbf168a3c16fe38c3714db6895daaa",
         "status" : "broken",
         "time" : {

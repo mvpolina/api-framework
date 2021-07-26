@@ -1,5 +1,5 @@
 {
-  "uid" : "ea43da918e082f0c",
+  "uid" : "464f07d474ca868b",
   "name" : "allure",
   "fullName" : "allure",
   "historyId" : "bcf5582ba8e49cdcdb5ccb872a6503f0",
@@ -25,23 +25,23 @@
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "shouldDisplayMessage" : false,
-      "attachmentsCount" : 0,
       "stepsCount" : 0,
-      "hasContent" : false
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
     } ],
     "attachments" : [ {
-      "uid" : "da8fae91c33846e7",
+      "uid" : "2933a3219135c243",
       "name" : "testAttachment",
-      "source" : "da8fae91c33846e7.json",
+      "source" : "2933a3219135c243.json",
       "type" : "application/json",
       "size" : 234
     } ],
     "parameters" : [ ],
-    "shouldDisplayMessage" : false,
-    "attachmentsCount" : 1,
     "stepsCount" : 1,
-    "hasContent" : true
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
   },
   "afterStages" : [ ],
   "labels" : [ {
@@ -61,6 +61,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "ea43da918e082f0c.json",
+  "source" : "464f07d474ca868b.json",
   "parameterValues" : [ ]
 }

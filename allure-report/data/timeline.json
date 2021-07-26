@@ -3,20 +3,33 @@
   "name" : "timeline",
   "children" : [ {
     "name" : "Поиск случайного кота, удаление и проверка",
-    "uid" : "a8a1af3128151689",
+    "uid" : "766d2982e960d86e",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1627261723931,
-      "stop" : 1627261724991,
-      "duration" : 1060
+      "start" : 1627302857532,
+      "stop" : 1627302858733,
+      "duration" : 1201
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, добавление ему n лайков и проверка",
+    "uid" : "7ac491338ceaa53",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627305770592,
+      "stop" : 1627305773206,
+      "duration" : 2614
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "allure",
-    "uid" : "ea43da918e082f0c",
+    "uid" : "464f07d474ca868b",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
@@ -28,34 +41,164 @@
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "allure2",
-    "uid" : "4ccab2c870d5ce96",
+    "name" : "Поиск случайного кота, удаление и проверка",
+    "uid" : "ea5a81be2ce04249",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1627307851447,
+      "stop" : 1627307852187,
+      "duration" : 740
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, добавление ему n лайков и проверка",
+    "uid" : "53285a5e5f21b738",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1627305553267,
+      "stop" : 1627305555644,
+      "duration" : 2377
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, добавление ему n лайков и проверка",
+    "uid" : "960340fcd8f10222",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1627261522648,
-      "stop" : 1627261522903,
-      "duration" : 255
+      "start" : 1627308546147,
+      "stop" : 1627308548564,
+      "duration" : 2417
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Поиск случайного кота, удаление и проверка",
-    "uid" : "6e3f0155605b6cad",
+    "uid" : "4023d02035140626",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1627261763475,
-      "stop" : 1627261764533,
-      "duration" : 1058
+      "start" : 1627302935934,
+      "stop" : 1627302937112,
+      "duration" : 1178
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, удаление и проверка",
+    "uid" : "f13995669e3f7e74",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627307588635,
+      "stop" : 1627307589893,
+      "duration" : 1258
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, удаление и проверка",
+    "uid" : "31f506f7506d74f1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1627304031299,
+      "stop" : 1627304032268,
+      "duration" : 969
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, добавление ему n лайков и проверка",
+    "uid" : "4b26b1244a6b50f5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627305925222,
+      "stop" : 1627305927668,
+      "duration" : 2446
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, добавление ему n лайков и проверка",
+    "uid" : "d427359482381546",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627308280385,
+      "stop" : 1627308282769,
+      "duration" : 2384
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, добавление ему n лайков и проверка",
+    "uid" : "94605aae49f3f0e5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627306111346,
+      "stop" : 1627306113769,
+      "duration" : 2423
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, удаление и проверка",
+    "uid" : "ccbf8a1b5d501677",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627261048635,
+      "stop" : 1627261050117,
+      "duration" : 1482
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, добавление ему m дизлайков и проверка",
+    "uid" : "a78a8e9ebb1651ae",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627308282772,
+      "stop" : 1627308285032,
+      "duration" : 2260
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, добавление ему n лайков и проверка",
+    "uid" : "dbd4a59007417192",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627304801214,
+      "stop" : 1627304802166,
+      "duration" : 952
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "allure3",
-    "uid" : "fcb12421a024bc3",
+    "uid" : "1ed41f72fb4456",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "broken",
     "time" : {
@@ -68,13 +211,221 @@
     "parameters" : [ ]
   }, {
     "name" : "Поиск случайного кота, удаление и проверка",
-    "uid" : "8146827316c96428",
+    "uid" : "2750315d8097934e",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1627261048635,
-      "stop" : 1627261050117,
-      "duration" : 1482
+      "start" : 1627308069236,
+      "stop" : 1627308070524,
+      "duration" : 1288
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, добавление ему n лайков и проверка",
+    "uid" : "4893f9d758fee279",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627306698813,
+      "stop" : 1627306701262,
+      "duration" : 2449
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, удаление и проверка",
+    "uid" : "f147c58e9b2b6cfd",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627261763475,
+      "stop" : 1627261764533,
+      "duration" : 1058
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, добавление ему n лайков и проверка",
+    "uid" : "fa21aa8fec0b3420",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627305780883,
+      "stop" : 1627305783385,
+      "duration" : 2502
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, добавление ему m дизлайков и проверка",
+    "uid" : "ce8defc4a7a89b7c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627306701266,
+      "stop" : 1627306703591,
+      "duration" : 2325
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, удаление и проверка",
+    "uid" : "6a6f10d763a06d6c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1627262069782,
+      "stop" : 1627262070947,
+      "duration" : 1165
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, добавление ему n лайков и проверка",
+    "uid" : "d63946b455ef54b8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627305904084,
+      "stop" : 1627305907360,
+      "duration" : 3276
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, удаление и проверка",
+    "uid" : "d0e88e99615d689e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1627307951098,
+      "stop" : 1627307951813,
+      "duration" : 715
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "allure2",
+    "uid" : "5cd5c1af5607b808",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627261522648,
+      "stop" : 1627261522903,
+      "duration" : 255
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, удаление и проверка",
+    "uid" : "20a95690282de352",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627308534345,
+      "stop" : 1627308535654,
+      "duration" : 1309
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, добавление ему n лайков и проверка",
+    "uid" : "22fc017156d70a5e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627305937169,
+      "stop" : 1627305939576,
+      "duration" : 2407
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, удаление и проверка",
+    "uid" : "3ff02a10f3ae00a7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627308001599,
+      "stop" : 1627308002881,
+      "duration" : 1282
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, удаление и проверка",
+    "uid" : "c88ad70a43c3f4c9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627261723931,
+      "stop" : 1627261724991,
+      "duration" : 1060
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, добавление ему n лайков и проверка",
+    "uid" : "6ca27d3389aa9388",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1627305685093,
+      "stop" : 1627305687569,
+      "duration" : 2476
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, удаление и проверка",
+    "uid" : "38f1145c4380eb03",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627307443882,
+      "stop" : 1627307445159,
+      "duration" : 1277
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, добавление ему n лайков и проверка",
+    "uid" : "2bd5656c6b532ddc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627305888956,
+      "stop" : 1627305891738,
+      "duration" : 2782
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Поиск случайного кота, добавление ему m дизлайков и проверка",
+    "uid" : "1936a51ca59a8434",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1627308548569,
+      "stop" : 1627308550857,
+      "duration" : 2288
     },
     "flaky" : false,
     "newFailed" : false,
