@@ -7,6 +7,12 @@ import Steps from '../src/steps/Steps';
 const getRandomInt = (max: number) => Math.floor(Math.random() * max) + 1;
 
 describe('Домашнее задание 2. Автоматизация API', async () => {
+    before(async () => {
+        const search_response = await CoreApi.getAllCats();
+        if (search_response.status === 404) {
+            assert.fail('База котов недоступна или пуста');
+        }
+    });
     it('Поиск случайного кота, добавление ему n лайков и проверка', async () => {
         //Arrange
         const n = 5;
